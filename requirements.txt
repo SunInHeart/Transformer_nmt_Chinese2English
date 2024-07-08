@@ -1,0 +1,8 @@
+nltk
+numpy
+torch
+# seaborn
+# matplotlib
+# psyco
+# zhtools
+gradio
