@@ -18,18 +18,9 @@ The trained model is in the path: save/model.pt
 python gradio_cn2en.py
 ```
 
-## Small model
+Access the website provided by gradio.
 
-Considering that using QEMU virtual machines for training can take too long, we provide small version model:
-
-```bash
-# train
-python nmt_model_mini.py
-# deployment
-python gradio_cn2en_mini.py
-```
-
-## Reference
+## References
 
 [基于Transformer的翻译模型（英-＞中）](https://blog.csdn.net/qq_44193969/article/details/116016404?spm=1001.2014.3001.5502)
 
